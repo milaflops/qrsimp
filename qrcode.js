@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // a dummy code g enerator for the fun
     const generateCode = (input) => {
         const arraySize = rand(40,40);
+        
         console.log("arraySize", arraySize);
         let ofArrays = [];
         for(let i = 0; i < arraySize; i++) {
