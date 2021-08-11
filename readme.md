@@ -1,5 +1,7 @@
 # QR Simp
 
+### **QR** codes, made **Simp**le.
+
 this isn't done
 
 the idea is: make QR codes in the browser, without calling out to some external server or whatever, and without, like, *advertisements*
